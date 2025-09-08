@@ -10,13 +10,11 @@
 
 ## Technical Skills
 
-  <img src="https://skillicons.dev/icons?i=html,css,java,cpp,react,bootstrap,photoshop,blender,git,vscode,debian,illustrator,php,docker,nodejs" height="50" style="margin: 1px"/>
+  <img src="https://skillicons.dev/icons?i=javascript,cpp,html,css,nodejs,react,bootstrap,photoshop,python,vscode,debian,tailwind,php,docker,figma" height="50" style="margin: 1px"/>
  
 </p>
 
-  <img src="https://skillicons.dev/icons?i=tailwind,python,figma" height="50" style="margin: 1px"/>
-
-</p> 
+  
 
 
 
