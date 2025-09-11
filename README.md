@@ -1,5 +1,6 @@
 # Welcome to My Github Profile!
-<div align="justify">I enjoy both frontend and backend programming, and I am always open to learning new tools and frameworks. For me, every project is an opportunity to grow and experiment with new things. I believe that staying curious and adaptable is key in the world of technology.
+<div align="justify">
+I am a student currently interning and working as a web developer at PT CMLABS INDONESIA DIGITAL. I have had the opportunity to work on real projects and explore various technologies. 
 <dev/>
   
 ## Tech Stack
