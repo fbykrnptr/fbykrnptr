@@ -1,5 +1,5 @@
 # Welcome to My Github Profile!
-<div align="justify"> I am currently participating in an internship program and working as a Web Developer at CMLABS. Through this role, I have the opportunity to be directly involved in real projects and explore various technologies used in the industry, especially in modern web apps.
+<div align="justify"> I am currently participating in an internship program and working as a Web Developer at CMLABS. Through this role, I have the opportunity to be directly involved in real projects and explore various technologies used in the industry, especially in modern web ap
 <dev/>
   
 ## Tech Stack
