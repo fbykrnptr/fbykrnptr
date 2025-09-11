@@ -1,6 +1,6 @@
 # Welcome to My Github Profile!
 <div align="justify">
-I am a student currently interning and working as a web developer at PT CMLABS INDONESIA DIGITAL. I have had the opportunity to work on real projects and explore various technologies. 
+I am a student currently undergoing an internship program and working as a Web Developer at PT CMLABS INDONESIA DIGITAL. In this role, I have the opportunity to be directly involved in real projects and explore various technologies used in the industry. 
 <dev/>
   
 ## Tech Stack
