@@ -8,7 +8,7 @@ I am an Associate Degree student in Information Technology at Brawijaya Universi
 
 
 ## Tech Stack
-  <img src="https://skillicons.dev/icons?i=javascript,cpp,html,css,nodejs,react,bootstrap,photoshop,python,flutter,debian,tailwind,php,docker,figma" height="50" style="margin: 1px"/> 
+  <img src="https://skillicons.dev/icons?i=javascript,cpp,html,css,nextjs,react,bootstrap,photoshop,python,flutter,debian,tailwind,php,docker,figma" height="50" style="margin: 1px"/> 
 </p>
 
 
